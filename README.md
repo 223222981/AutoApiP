@@ -1,6 +1,11 @@
 # AutoApiP ———— E5自动续期
 
+office 365 、office 2019
+
+---  
+
 AutoApi系列：~~AutoApi~~、AutoApiSecret、~~AutoApiSR、AutoApiS~~、AutoApiP
+
 
 ## 说明 ##
 * E5自动续期程序，但是**不保证续期**
